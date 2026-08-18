@@ -1,6 +1,7 @@
 # Caiyun Zhang, PhD, Professor
 ## 📌 Quick Navigation
-* [Education](#educations)
+* [Contact](#contact)
+* [Education](#education)
 * [Publications](#publications)
 * [Grants & Funding](#grants)
 * [Teaching & Mentoring](#teaching)
@@ -89,18 +90,18 @@ Zhang, C., 2020. Multi-sensor System Applications in the Everglades Ecosystem. C
 ## Grants & Awards
 * EXTERNAL
 1)	CESU-Integrating Geological and Remote Sensing Approaches to Quantify Changes of Morphology, Coastal Sediments, and Habitats from 2022 Hurricanes in Canaveral National Seashore. Tiffany Briggs (PI), **C. Zhang** (co-PI), $143,879, National Park Service (NPS), 2025-2028.
-2)	CESU-Developing Targets of Resilience Across Everglades National Park Coastal Ecotones: Incorporating Sea Level Rise and Climate Change. X. Comas (PI), **C. Zhang** (co-PI), $109,152, National Park Service (NPS), 2024-2025.
+2)	CESU-Developing Targets of Resilience Across Everglades National Park Coastal Ecotones: Incorporating Sea Level Rise and Climate Change. X. Comas (PI), **C. Zhang** (co-PI), $229,152, National Park Service (NPS), 2024-2025.
 3)	Near Real Time (NRT) Seasonally Frozen and Thawed Terrain Condition Assessment Using Machine Learning and Multiple Data Sources. C. Zhang (sole-PI), $341,593, U.S. Army Corps Engineers (USACE)-CRREL, 2023-2026.
-4)	Remote Sensing and Mapping Plant Communities. C. Zhang (sole-PI), $188,635, Florida Fish and Wildlife Conservation Commission (FWC), 2023-2026.
-5)	Remote Sensing and Mapping of Plant Communities for the Preservation of Natural Systems. C. Zhang (sole-PI), St. Johns River Water Management District (SJWMD), $150,000, 2022-2025.
-6)	Developing Sensor-based Models for Mapping Greenhouse Gas Exchanges and Evapotranspiration from Wetlands in the Greater Everglades. C. Zhang (PI), X. Comas and B. Shoemaker (co-Is). NASA/Florida Space Grant Consortium (FSGC), $37,404, 2022-2023.
-7)	Predicting Hot Spots and Hot Moments of Biogenic Gas Accumulation and Release in a Subtropical Ecosystem Using Airborne Ground-Penetrating Radar (GPR). X. Comas (PI), C. Zhang (co-PI), N. Terry (co-PI), DOE, $111,656, 2021-2023.
-8)	Watershed Master Planning Initiative Pilot Program, Phase 2. Fred Bloetscher (PI), C. Zhang (co-PI), and others, $2.5 million, Florida Division of Emergency Management, 2022-2023.
-9)	Characterizing Permafrost Terrains Using Machine Learning Techniques. C. Zhang (sole-PI), $129,122, U.S. Army Corps Engineers (USACE)-CRREL, 2020-2023.
-10)	Development of Automated Methods for Using Satellite Imagery to Monitor Changes in Vegetative Communities. C. Zhang (sole-PI), St. Johns River Water Management District, $99,374, 2020-2022.
+4)	Remote Sensing and Mapping Plant Communities. **C. Zhang** (sole-PI), $203,635, Florida Fish and Wildlife Conservation Commission (FWC), 2023-2026.
+5)	Remote Sensing and Mapping of Plant Communities for the Preservation of Natural Systems. **C. Zhang** (sole-PI), St. Johns River Water Management District (SJWMD), $150,000, 2022-2026.
+6)	Developing Sensor-based Models for Mapping Greenhouse Gas Exchanges and Evapotranspiration from Wetlands in the Greater Everglades. **C. Zhang** (PI), X. Comas and B. Shoemaker (co-Is). NASA/Florida Space Grant Consortium (FSGC), $37,404, 2022-2023.
+7)	Predicting Hot Spots and Hot Moments of Biogenic Gas Accumulation and Release in a Subtropical Ecosystem Using Airborne Ground-Penetrating Radar (GPR). X. Comas (PI), **C. Zhang** (co-PI), N. Terry (co-PI), DOE, $111,656, 2021-2023.
+8)	Watershed Master Planning Initiative Pilot Program, Phase 2. Fred Bloetscher (PI), **C. Zhang** (co-PI), and others, $2.5 million, Florida Division of Emergency Management, 2022-2023.
+9)	Characterizing Permafrost Terrains Using Machine Learning Techniques. **C. Zhang** (sole-PI), $129,122, U.S. Army Corps Engineers (USACE)-CRREL, 2020-2023.
+10)	Development of Automated Methods for Using Satellite Imagery to Monitor Changes in Vegetative Communities. **C. Zhang** (sole-PI), St. Johns River Water Management District, $99,374, 2020-2022.
 11)	Watershed Master Planning Initiative Pilot Program, Phase 1. Fred Bloetscher (PI), C. Zhang (co-PI), and others, $1.7 million, Florida Division of Emergency Management, 2019-2020.
 12)	Increasing Unmanned Aerial Vehicle Data Integrity for Coastal Vulnerability Analysis in the Florida Everglades. C. Zhang (Advisor), Sara Durgan (Student Fellow), NASA/FSGC, $5,000, 2018-2019.
-13)	Research and Technical Assistance for Assessing: Climate Change, Sea Level Rise and Salinity Dynamics in the Greater Everglades. Leonard Berry (PI); C. Zhang (co-PI), and Z. Xie (co-PI). USGS, $730, 000, 2011-2016.
+13)	Research and Technical Assistance for Assessing: Climate Change, Sea Level Rise and Salinity Dynamics in the Greater Everglades. Leonard Berry (PI); **C. Zhang** (co-PI), and Z. Xie (co-PI). USGS, $730, 000, 2011-2016.
 ## Teaching & Mentorship
 * COURSE TEACHING AT FAU
 1)	Hyperspectral Remote Sensing, 2010-present
