@@ -29,7 +29,7 @@ B.S.  1998	Marine Geology, Ocean University of China, China
 2010 - 2016		Assistant Professor, Florida Atlantic University, USA  
 
 ## Publications
-* BOOK 
+* BOOK    
 Zhang, C., 2020. Multi-sensor System Applications in the Everglades Ecosystem. CRC Press, ISBN: 1498711774; ISBN-13: 9781498711777; 334 pages.  
 * JOURNAL ARTICLES (*: Advisee)  
 **Zhang, C**., T. A. Douglas, D. Brodylo, L. V. Bosche, and M. Torre Jorgenson, 2024. Combining a Climate-Permafrost Model with Fine Resolution Remote Sensor Products to Quantify Active-Layer Thickness at Local Scales. Environmental Research Letters, 19, 044030.
