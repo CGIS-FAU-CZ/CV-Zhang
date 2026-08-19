@@ -3,8 +3,8 @@
 * [Contact](#contact)
 * [Education](#education)
 * [Publications](#publications)
-* [Grants & Funding](#grants)
-* [Teaching & Mentoring](#teaching)
+* [Grants](#grants)
+* [Teaching-Mentoring](#teaching)
 
 ## Contact
 Department of Geosciences  
