@@ -4,7 +4,7 @@
 * [Education](#education)
 * [Publications](#publications)
 * [Grants](#grants)
-* [Teaching-Mentoring](#teaching)
+* [Teaching/Mentoring](#teaching)
 
 ## Contact
 Department of Geosciences  
