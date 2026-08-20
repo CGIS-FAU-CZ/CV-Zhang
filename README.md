@@ -87,7 +87,7 @@ Zhang, C., 2020. Multi-sensor System Applications in the Everglades Ecosystem. C
 53)	Huang, H., Z. Yang, and **C. Zhang**, 2003. The Advances of Yellow River Mouth Sand Bar. Marine Sciences (in Chinese), 27, 35-37.
 54)	**Zhang, C**., Z. Yang, Y. Zhang, and H. Huang, 2002. Application of MAPINFO in the Study of Yellow River Mouth Sand Bar. Coastal Engineering (in Chinese), 21, 1-5.
 
-## Grants & Awards
+## Grants
 * EXTERNAL
 1)	CESU-Integrating Geological and Remote Sensing Approaches to Quantify Changes of Morphology, Coastal Sediments, and Habitats from 2022 Hurricanes in Canaveral National Seashore. Tiffany Briggs (PI), **C. Zhang** (co-PI), $143,879, National Park Service (NPS), 2025-2028.
 2)	CESU-Developing Targets of Resilience Across Everglades National Park Coastal Ecotones: Incorporating Sea Level Rise and Climate Change. X. Comas (PI), **C. Zhang** (co-PI), $229,152, National Park Service (NPS), 2024-2025.
@@ -102,7 +102,7 @@ Zhang, C., 2020. Multi-sensor System Applications in the Everglades Ecosystem. C
 11)	Watershed Master Planning Initiative Pilot Program, Phase 1. Fred Bloetscher (PI), C. Zhang (co-PI), and others, $1.7 million, Florida Division of Emergency Management, 2019-2020.
 12)	Increasing Unmanned Aerial Vehicle Data Integrity for Coastal Vulnerability Analysis in the Florida Everglades. C. Zhang (Advisor), Sara Durgan (Student Fellow), NASA/FSGC, $5,000, 2018-2019.
 13)	Research and Technical Assistance for Assessing: Climate Change, Sea Level Rise and Salinity Dynamics in the Greater Everglades. Leonard Berry (PI); **C. Zhang** (co-PI), and Z. Xie (co-PI). USGS, $730, 000, 2011-2016.
-## Teaching & Mentorship
+## Teaching
 * COURSE TEACHING AT FAU
 1)	Hyperspectral Remote Sensing, 2010-present
 2)	LiDAR Remote Sensing, 2012-present 
