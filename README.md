@@ -90,7 +90,7 @@ Zhang, C., 2020. Multi-sensor System Applications in the Everglades Ecosystem. C
 ## Grants
 * EXTERNAL
 1)	CESU-Integrating Geological and Remote Sensing Approaches to Quantify Changes of Morphology, Coastal Sediments, and Habitats from 2022 Hurricanes in Canaveral National Seashore. Tiffany Briggs (PI), **C. Zhang** (co-PI), $143,879, National Park Service (NPS), 2025-2028.
-2)	CESU-Developing Targets of Resilience Across Everglades National Park Coastal Ecotones: Incorporating Sea Level Rise and Climate Change. X. Comas (PI), **C. Zhang** (co-PI), $229,152, National Park Service (NPS), 2024-2025.
+2)	CESU-Developing Targets of Resilience Across Everglades National Park Coastal Ecotones: Incorporating Sea Level Rise and Climate Change.**C. Zhang** (PI),  X. Comas (co-PI), $229,152, National Park Service (NPS), 2024-2025.
 3)	Near Real Time (NRT) Seasonally Frozen and Thawed Terrain Condition Assessment Using Machine Learning and Multiple Data Sources. C. Zhang (sole-PI), $341,593, U.S. Army Corps Engineers (USACE)-CRREL, 2023-2026.
 4)	Remote Sensing and Mapping Plant Communities. **C. Zhang** (sole-PI), $203,635, Florida Fish and Wildlife Conservation Commission (FWC), 2023-2026.
 5)	Remote Sensing and Mapping of Plant Communities for the Preservation of Natural Systems. **C. Zhang** (sole-PI), St. Johns River Water Management District (SJWMD), $150,000, 2022-2026.
