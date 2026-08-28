@@ -45,7 +45,7 @@ B.S. 1998 Marine Geology, Ocean University of China, China
 
 2010 - 2016 Assistant Professor, Florida Atlantic University, USA
 
-## PUBLICATIONS (Total: 59)
+## PUBLICATIONS
 
 _BOOK_
 
