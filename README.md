@@ -1,35 +1,25 @@
-<!-- 1. The Layout Container Wrapper -->
-<div style="display: flex; gap: 40px; align-items: flex-start; max-width: 1200px; margin: 0 auto;">
-
-  <!-- 2. The Sticky Sidebar (Right Side) -->
-  <nav style="position: sticky; top: 20px; width: 240px; flex-shrink: 0; font-family: sans-serif; order: 2; background: #f6f8fa; border: 1px solid #d0d7de; padding: 15px; border-radius: 6px;">
-    <h4 style="margin-top: 0; margin-bottom: 10px; color: #24292f; border-bottom: 1px solid #d0d7de; padding-bottom: 8px;">Navigation</h4>
-    <ul style="list-style: none; padding-left: 0; margin: 0; line-height: 2;">
-      <li><a href="#contact" style="text-decoration: none; color: #0969da; font-weight: bold;">📞 CONTACT</a></li>
-      <li><a href="#educations" style="text-decoration: none; color: #0969da; font-weight: bold;">🎓 EDUCATIONS</a></li>
-      <li><a href="#employment" style="text-decoration: none; color: #0969da; font-weight: bold;">💼 EMPLOYMENT</a></li>
-      <li><a href="#publications" style="text-decoration: none; color: #0969da; font-weight: bold;">📚 PUBLICATIONS</a></li>
-      <li><a href="#grants" style="text-decoration: none; color: #0969da; font-weight: bold;">💰 GRANTS</a></li>
-      <li><a href="#presentations" style="text-decoration: none; color: #0969da; font-weight: bold;">🎤 PRESENTATIONS</a></li>
-      <li><a href="#teaching-and-advising" style="text-decoration: none; color: #0969da; font-weight: bold;">🏫 TEACHING AND ADVISING</a></li>
-      <li><a href="#services" style="text-decoration: none; color: #0969da; font-weight: bold;">🤝 SERVICES</a></li>
-      <li><a href="#honors" style="text-decoration: none; color: #0969da; font-weight: bold;">🏆 HONORS</a></li>
-    </ul>
-  </nav>
-
-  <!-- 3. The Main Body Content Column -->
-  <main style="flex-grow: 1; min-width: 0; order: 1;">
-
-## CONTACT
-CAIYUN (CAY) ZHANG 
+[CONTACT](#contact)  
+[EDUCATION](#educations)  
+[EMPLOYMENT](#employment)  
+[PUBLICATIONS](#publications)  
+[GRANTS](#grants)  
+[PRESENTATIONS](#presentations)  
+[TEACHING AND ADVISING](#teaching-and-advising)  
+[SERVICE](#services)  
+[HONORS](#honors)  
+# CONTACT
+CAIYUN (CAY) ZHANG  
 Professor  
 Director, Center for GIS   
 Associate Editor: _ISPRS Journal of Photogrammetry and Remote Sensing_ 
-Department of Geosciences, Florida Atlantic University 
-777 Glades Road, Boca Raton, Florida 33431 
-Phone: 561-297-2648 (office); Email: [czhang3@fau.edu] (mailto:czhang3@fau.edu) <http://www.geosciences.fau.edu/people/zhang.php>
+Department of Geosciences  
+Florida Atlantic University  
+777 Glades Road, Boca Raton, Florida 33431  
+Phone: 561-297-2648 (office)    
+Email: czhang3@fau.edu
+Web: <http://www.geosciences.fau.edu/people/zhang.php>
 
-## EDUCATIONS
+# EDUCATIONS
 
 Ph.D. 2010 Geospatial Information Sciences (GIS), University of Texas at Dallas, USA
 
@@ -37,7 +27,7 @@ M.S. 2003 Marine Geology, Ocean University of China, China
 
 B.S. 1998 Marine Geology, Ocean University of China, China
 
-## EMPLOYMENT
+# EMPLOYMENT
 
 2021 - present Professor, Florida Atlantic University, USA
 
@@ -45,7 +35,7 @@ B.S. 1998 Marine Geology, Ocean University of China, China
 
 2010 - 2016 Assistant Professor, Florida Atlantic University, USA
 
-## PUBLICATIONS
+# PUBLICATIONS
 
 _BOOK_
 
@@ -112,7 +102,7 @@ _BLIND PEER-REVIEWED JOURNAL ARTICLES (\*: Advisee)_
 57. Huang, H., Z. Yang, and **C. Zhang**, 2003. The Advances of Yellow River Mouth Sand Bar. _Marine Sciences_ (in Chinese), 27, 35-37.
 58. **Zhang, C.**, Z. Yang, Y. Zhang, and H. Huang, 2002. Application of MAPINFO in the Study of Yellow River Mouth Sand Bar. _Coastal Engineering_ (in Chinese), 21, 1-5.
 
-## GRANTS
+# GRANTS
 
 _EXTERNAL_
 
@@ -145,7 +135,7 @@ _INTERNAL_
 7. Water Quality Assessment in Florida Bay Using Remote Sensing Techniques. **C. Zhang** (PI), T. Root, Z. Xie, L. Berry, and M. Koch (co-PIs). FAU 2012 Seed Grant Program, \$20,000, 01/2012-01/2013.
 8. Salinity Assessment in Northeastern Florida Bay Using Landsat TM Data. **C. Zhang** (PI), FAU Faculty Research Mentoring Program, with Z. Xie as mentor, \$ 3,000, 01/2012 -01/2013.
 
-## PRESENTATIONS
+# PRESENTATIONS
 
 _INTERNATIONAL / NATIONAL_
 
@@ -226,7 +216,7 @@ _INVITED TALK_
 9. **Zhang, C**., 2017. Remote Sensing of Marshes: Freshwater Marsh in Lake Okeechobee, and Sawgrass Marsh in the Coastal Everglades. University of Georgia, 10/18.
 10. **Zhang, C**., 2016. Fusing LiDAR and Hyperspectral data for urban forest inventory. Ocean University of China, Qingdao Geotechnical Investigation and Surveying Institute, Qingdao University of Technology, Xian Science and Technology University, Northwestern University, 4/14-4/18.
 
-## TEACHING AND ADVISING
+# TEACHING AND ADVISING
 
 _COURSE TEACHING AT FAU_
 
@@ -314,7 +304,7 @@ _Advisor - Undergraduate_
 
 Abigail Eccles (2023-2024); Alex Altiere (2024-2025)
 
-## SERVICES
+# SERVICES
 
 _DEPARTMENT SERVICE_
 
@@ -384,7 +374,7 @@ _Remote Sensing of Environment; ISPRS Journal of Photogrammetry and Remote Sensi
 - Program committee of _Earth Observation and Remote Sensing Applications_ (EORSA) workshop, 2012, 2014, 2016, 2018.
 - Judge, Student Honors Paper Competition sponsored by the Remote Sensing Specialty Group (RSSG) of Association of American Geographers (AAG), reviewed 8 full papers and evaluated the performance of competitors at the AAG presentation on April 9, 2013, Los Angeles, CA.
 
-## HONORS
+# HONORS
 
 _HONORS TO ZHANG AS RECIPIENT_
 
@@ -398,10 +388,4 @@ _HONORS TO ZHANG AS RECIPIENT_
 _HONORS TO GRADUATE ADVISEES WITH ZHANG AS CO-RECIPIENT_
 
 1. First Place for Analytical Presentation for the presentation "Selch, D\*., M. Rochelo, and **C. Zhang**, 2016. Correcting Imagery for Accurate Surface Water Salinity Models using GIS and RS." at ESRI User Conference.
-2. Norb Psuty Student Paper Merit Award (2016): honored for the presentation "Selch, D\*., and **C. Zhang**, 2016. Extracting Benthic Habitat from Shallow Water Hyperspectral Imagery Examining Reflectance Influences" by the Coastal & Marine Specialty Group of AAG.**CAIYUN (CAY) ZHANG**
-
-  </main>
-</div>
-<!-- 4. End Layout Wrapper -->
-
-
+2. Norb Psuty Student Paper Merit Award (2016): honored for the presentation "Selch, D\*., and **C. Zhang**, 2016. Extracting Benthic Habitat from Shallow Water Hyperspectral Imagery Examining Reflectance Influences" by the Coastal & Marine Specialty Group of AAG.
