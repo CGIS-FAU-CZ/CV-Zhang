@@ -9,7 +9,7 @@ Department of Geosciences
 Florida Atlantic University  
 777 Glades Road, Boca Raton, Florida 33431  
 Phone: 561-297-2648 (office)    
-Email: czhang3@fau.edu
+Email: czhang3@fau.edu 
 Web: <http://www.geosciences.fau.edu/people/zhang.php>
 
 # EDUCATIONS
