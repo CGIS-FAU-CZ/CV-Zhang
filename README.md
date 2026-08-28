@@ -20,16 +20,16 @@
   <!-- 3. The Main Body Content Column -->
   <main style="flex-grow: 1; min-width: 0; order: 1;">
 
-# CONTACT
-CAIYUN (CAY) ZHANG
-Professor 
-Director, Center for GIS 
-Associate Editor: _ISPRS Journal of Photogrammetry and Remote Sensing_
-Department of Geosciences, Florida Atlantic University
-777 Glades Road, Boca Raton, Florida 33431
-Phone: 561-297-2648 (office); Email: [czhang3@fau.edu](mailto:czhang3@fau.edu) <http://www.geosciences.fau.edu/people/zhang.php>
+## CONTACT
+CAIYUN (CAY) ZHANG 
+Professor  
+Director, Center for GIS   
+Associate Editor: _ISPRS Journal of Photogrammetry and Remote Sensing_ 
+Department of Geosciences, Florida Atlantic University 
+777 Glades Road, Boca Raton, Florida 33431 
+Phone: 561-297-2648 (office); Email: [czhang3@fau.edu] (mailto:czhang3@fau.edu) <http://www.geosciences.fau.edu/people/zhang.php>
 
-# EDUCATIONS
+## EDUCATIONS
 
 Ph.D. 2010 Geospatial Information Sciences (GIS), University of Texas at Dallas, USA
 
@@ -37,7 +37,7 @@ M.S. 2003 Marine Geology, Ocean University of China, China
 
 B.S. 1998 Marine Geology, Ocean University of China, China
 
-# EMPLOYMENT
+## EMPLOYMENT
 
 2021 - present Professor, Florida Atlantic University, USA
 
@@ -45,7 +45,7 @@ B.S. 1998 Marine Geology, Ocean University of China, China
 
 2010 - 2016 Assistant Professor, Florida Atlantic University, USA
 
-# PUBLICATIONS (Total: 59)
+## PUBLICATIONS (Total: 59)
 
 _BOOK_
 
@@ -112,7 +112,7 @@ _BLIND PEER-REVIEWED JOURNAL ARTICLES (\*: Advisee)_
 57. Huang, H., Z. Yang, and **C. Zhang**, 2003. The Advances of Yellow River Mouth Sand Bar. _Marine Sciences_ (in Chinese), 27, 35-37.
 58. **Zhang, C.**, Z. Yang, Y. Zhang, and H. Huang, 2002. Application of MAPINFO in the Study of Yellow River Mouth Sand Bar. _Coastal Engineering_ (in Chinese), 21, 1-5.
 
-# GRANTS
+## GRANTS
 
 _EXTERNAL_
 
@@ -145,7 +145,7 @@ _INTERNAL_
 7. Water Quality Assessment in Florida Bay Using Remote Sensing Techniques. **C. Zhang** (PI), T. Root, Z. Xie, L. Berry, and M. Koch (co-PIs). FAU 2012 Seed Grant Program, \$20,000, 01/2012-01/2013.
 8. Salinity Assessment in Northeastern Florida Bay Using Landsat TM Data. **C. Zhang** (PI), FAU Faculty Research Mentoring Program, with Z. Xie as mentor, \$ 3,000, 01/2012 -01/2013.
 
-# PRESENTATIONS
+## PRESENTATIONS
 
 _INTERNATIONAL / NATIONAL_
 
@@ -226,7 +226,7 @@ _INVITED TALK_
 9. **Zhang, C**., 2017. Remote Sensing of Marshes: Freshwater Marsh in Lake Okeechobee, and Sawgrass Marsh in the Coastal Everglades. University of Georgia, 10/18.
 10. **Zhang, C**., 2016. Fusing LiDAR and Hyperspectral data for urban forest inventory. Ocean University of China, Qingdao Geotechnical Investigation and Surveying Institute, Qingdao University of Technology, Xian Science and Technology University, Northwestern University, 4/14-4/18.
 
-# TEACHING AND ADVISING
+## TEACHING AND ADVISING
 
 _COURSE TEACHING AT FAU_
 
@@ -314,7 +314,7 @@ _Advisor - Undergraduate_
 
 Abigail Eccles (2023-2024); Alex Altiere (2024-2025)
 
-# SERVICES
+## SERVICES
 
 _DEPARTMENT SERVICE_
 
@@ -384,7 +384,7 @@ _Remote Sensing of Environment; ISPRS Journal of Photogrammetry and Remote Sensi
 - Program committee of _Earth Observation and Remote Sensing Applications_ (EORSA) workshop, 2012, 2014, 2016, 2018.
 - Judge, Student Honors Paper Competition sponsored by the Remote Sensing Specialty Group (RSSG) of Association of American Geographers (AAG), reviewed 8 full papers and evaluated the performance of competitors at the AAG presentation on April 9, 2013, Los Angeles, CA.
 
-# HONORS
+## HONORS
 
 _HONORS TO ZHANG AS RECIPIENT_
 
@@ -403,4 +403,5 @@ _HONORS TO GRADUATE ADVISEES WITH ZHANG AS CO-RECIPIENT_
   </main>
 </div>
 <!-- 4. End Layout Wrapper -->
+
 
