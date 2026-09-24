@@ -36,7 +36,7 @@ _BOOK_
 _BLIND PEER-REVIEWED JOURNAL ARTICLES (\*: Advisee)_
 
 1. Benzi, F\*., A.A. Fazari, D. Brodylo, **C. Zhang**, 2026. Leveraging UAS and Satellite Remote Sensing for Wetland Mapping in Central Florida. _Wetlands_, 46:118. 
-2. Brodylo, D\*., T. A. Douglas, D. A. Vas, and **C. Zhang**, 2026. Multi-scale Snow Depth Mapping in Interior Alaska using Remote Sensing. _Remote Sensing Applications: Society and Environment, 41, 101888. 
+2. Brodylo, D\*., T. A. Douglas, D. A. Vas, and **C. Zhang**, 2026. Multi-scale Snow Depth Mapping in Interior Alaska using Remote Sensing. _Remote Sensing Applications: Society and Environment_, 41, 101888. 
 3. **Zhang, C**., T. A. Douglas, D. Brodylo, M. Torre Jorgenson, and L. V. Bosche, 2025. Mapping Permafrost Thaw Stages in Interior Alaska. _Remote Sensing of Environment,_ 329, 114941.
 4. Comas, X., N. Terry, M. R. Islam, D. Brodylo, **C. Zhang**, 2025. Exploring the Use of Non‐Invasive Drone‐Based Ground‐Penetrating Radar (GPR) to Characterize Biogenic Gas Dynamics in Subtropical Peat Soils. _Journal of Geophysical Research: Biogeosciences_, 130, e2025JG008891.
 5. Douglas, T.A., M. Jorgenson, T. Sullivan, and **C. Zhang**, 2025. Comparing Thaw Probing, Electrical Resistivity Tomography, And Airborne Lidar to Quantify Lateral and Vertical Thaw in Rapidly Degrading Boreal Permafrost. _The Cryosphere_, 19, 3991–4009.
