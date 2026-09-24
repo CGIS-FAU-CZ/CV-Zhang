@@ -19,9 +19,9 @@ B.S.&ensp;  1998&emsp;&emsp;&nbsp; Marine Geology, Ocean University of China, Ch
 
 # EMPLOYMENT
 
-2021 - present Professor, Florida Atlantic University, USA  
-2016 - 2021 Associate Professor, Florida Atlantic University, USA  
-2010 - 2016 Assistant Professor, Florida Atlantic University, USA  
+2021 - present&emsp;&emsp; Professor, Florida Atlantic University, USA  
+2016 - 2021&emsp;&emsp;&nbsp; Associate Professor, Florida Atlantic University, USA  
+2010 - 2016&emsp;&emsp;&nbsp; Assistant Professor, Florida Atlantic University, USA  
 
 # PUBLICATIONS
 
