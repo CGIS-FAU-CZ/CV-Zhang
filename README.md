@@ -17,6 +17,12 @@ Ph.D. 2010  | Geospatial Information Sciences (GIS), University of Texas at Dall
 M.S.  2003  | Marine Geology, Ocean University of China, China :|   
 B.S.  1998  | Marine Geology, Ocean University of China, China :|    
 
+**Item**&emsp;&emsp;&emsp;&emsp;**Price**
+Apple&emsp;&emsp;&emsp;&emsp;$1.00
+Banana&emsp;&emsp;&emsp;$0.50
+
+
+
 # EMPLOYMENT
 
 2021 - present Professor, Florida Atlantic University, USA
