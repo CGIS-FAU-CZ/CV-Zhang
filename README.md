@@ -12,7 +12,7 @@ Web: <http://www.geosciences.fau.edu/people/zhang.php>
 Associate Editor: _ISPRS Journal of Photogrammetry and Remote Sensing_ 
 
 # EDUCATIONS
-
+ :--- | :---: | ---: |
 Ph.D. 2010  Geospatial Information Sciences (GIS), University of Texas at Dallas, USA  
 M.S.  2003  Marine Geology, Ocean University of China, China  
 B.S.  1998  Marine Geology, Ocean University of China, China  
