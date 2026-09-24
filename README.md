@@ -3,14 +3,13 @@
 # CONTACT
 CAIYUN (CAY) ZHANG  
 Professor  
-Director, Center for GIS   
-Associate Editor: _ISPRS Journal of Photogrammetry and Remote Sensing_ 
 Department of Geosciences  
 Florida Atlantic University  
 777 Glades Road, Boca Raton, Florida 33431  
 Phone: 561-297-2648 (office)    
 Email: czhang3@fau.edu 
 Web: <http://www.geosciences.fau.edu/people/zhang.php>
+Associate Editor: _ISPRS Journal of Photogrammetry and Remote Sensing_ 
 
 # EDUCATIONS
 
