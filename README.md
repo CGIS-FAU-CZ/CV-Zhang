@@ -1,4 +1,4 @@
-[CONTACT](#contact) |[EDUCATION](#educations)  |[EMPLOYMENT](#employment)  |[PUBLICATIONS](#publications)  |[GRANTS](#grants) |[PRESENTATIONS](#presentations) |[TEACHING AND ADVISING](#teaching-and-advising) |[SERVICE](#services) |[HONORS](#honors)  
+[CONTACT](#contact) |[EDUCATION](#educations)  |[EMPLOYMENT](#employment)  |[PUBLICATIONS](#publications)  |[GRANTS](#grants) |[PRESENTATIONS](#presentations) |[TEACHING](#teaching) ||[ADVISING](#advising) |[SERVICE](#services) |[HONORS](#honors)  
 
 # CONTACT
 CAIYUN (CAY) ZHANG  
@@ -210,7 +210,7 @@ _INVITED TALK_
 9. **Zhang, C**., 2017. Remote Sensing of Marshes: Freshwater Marsh in Lake Okeechobee, and Sawgrass Marsh in the Coastal Everglades. University of Georgia, 10/18.
 10. **Zhang, C**., 2016. Fusing LiDAR and Hyperspectral data for urban forest inventory. Ocean University of China, Qingdao Geotechnical Investigation and Surveying Institute, Qingdao University of Technology, Xian Science and Technology University, Northwestern University, 4/14-4/18.
 
-# TEACHING AND ADVISING
+# TEACHING
 
 _COURSE TEACHING AT FAU_
 
@@ -220,6 +220,8 @@ _COURSE TEACHING AT FAU_
 4. Digital Image Analysis, 2012-present
 5. Remote Sensing of Environment, 2018-present
 6. Marine Geology, Spring 2013
+   
+# ADVISING
 
 _STUDENT MENTORING_
 
@@ -234,45 +236,15 @@ _Chair Advisor - MA/MS_
 _Chair Advisor - Ph.D._
 
 1. Aaron Evans (Ph.D., co-advisor, 2014)
-
-Dissertation: Remote sensing of evapotranspiration using automated calibration: development and testing in the state of Florida
-
 2. Donna Selch (Ph.D., 2016)
-
-Dissertation: Salinity assessment, change, and impact on plant stress/canopy water content (CWC) in Florida Bay using Remote Sensing and GIS
-
 3. Hannah Cooper (Ph.D., 2018)
-
-Dissertation: Increasing LiDAR data integrity in sea-level rise impact assessment on Florida's coastal Everglades
-
 4. Sara Denka (Ph.D., 2020)
-
-Dissertation: Evaluating unmanned aircraft system photogrammetry for coastal Florida Everglades restoration and management
-
 5. Jing Liu (Ph.D., 2020)
-
-Dissertation: Modeling ground elevation of Louisiana coastal wetlands and analyzing relative sea level rise inundation using RSET-MH and lidar measurements
-
 6. Molly Smith (Ph.D., co-advisor, 2020)
-
-Dissertation: Combining traditional and image analysis techniques for unconsolidated exposed terrigenous beach sand characterization
-
 7. Heather Nicholson (Ph.D., 2022)
-
-Dissertation: Salt marsh species classification and soil property modeling using multiple remote sensors
-
 8. David Brodylo (Ph.D., 2023)
-
-Dissertation: Quantification of Permafrost Thaw Depth and Snow Depth in Interior Alaska at Multiple Scales Using Field, Airborne, and Spaceborne Data
-
 9. Mizanur Rahman (Ph.D., 2025)
-
-Dissertation: Exploring a Modern Deep Learning Technique for Wetland Mapping and Monitoring Using WorldView-2 Satellite Products
-
 10. Abdullah Al-Fazari (Ph.D., 2026)
-
-Dissertation: Integrating Multi-Source Data with Machine Learning Techniques To Upscale Wetland Carbon Dioxide Fluxes
-
 11. Fiona Benzi (Ph.D., ongoing)
 12. Sandip Rijal (Ph.D., ongoing)
 13. Ellyn Willse (Ph.D., ongoing, co-advisor)
