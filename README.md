@@ -13,9 +13,9 @@ Associate Editor: _ISPRS Journal of Photogrammetry and Remote Sensing_
 
 # EDUCATIONS
 
-Ph.D. 2010&emspGeospatial Information Sciences (GIS), University of Texas at Dallas, USA    
-M.S.  2003&emspMarine Geology, Ocean University of China, China    
-B.S.  1998&emspMarine Geology, Ocean University of China, China   
+Ph.D. 2010&emsp;&emsp; Geospatial Information Sciences (GIS), University of Texas at Dallas, USA    
+M.S.&ensp;  2003&emsp;&emsp;  Marine Geology, Ocean University of China, China    
+B.S.&ensp;  1998&emsp;&emsp;&nbsp; Marine Geology, Ocean University of China, China   
 
 # EMPLOYMENT
 
