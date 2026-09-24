@@ -13,23 +13,15 @@ Associate Editor: _ISPRS Journal of Photogrammetry and Remote Sensing_
 
 # EDUCATIONS
 
-Ph.D. 2010  | Geospatial Information Sciences (GIS), University of Texas at Dallas, USA:|  
-M.S.  2003  | Marine Geology, Ocean University of China, China :|   
-B.S.  1998  | Marine Geology, Ocean University of China, China :|    
-
-**Item**&emsp;&emsp;&emsp;&emsp;**Price**
-Apple&emsp;&emsp;&emsp;&emsp;$1.00
-Banana&emsp;&emsp;&emsp;$0.50
-
-
+Ph.D. 2010&emspGeospatial Information Sciences (GIS), University of Texas at Dallas, USA    
+M.S.  2003&emspMarine Geology, Ocean University of China, China    
+B.S.  1998&emspMarine Geology, Ocean University of China, China   
 
 # EMPLOYMENT
 
-2021 - present Professor, Florida Atlantic University, USA
-
-2016 - 2021 Associate Professor, Florida Atlantic University, USA
-
-2010 - 2016 Assistant Professor, Florida Atlantic University, USA
+2021 - present Professor, Florida Atlantic University, USA  
+2016 - 2021 Associate Professor, Florida Atlantic University, USA  
+2010 - 2016 Assistant Professor, Florida Atlantic University, USA  
 
 # PUBLICATIONS
 
